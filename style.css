@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+h2 {
+    color: aliceblue;
+    background-color: blue;
+}
+
+#demo {
+    color: red;
+    background-color: yellowgreen;
+}
+
+#demoTwo {
+    color: azure;
+    background-color: coral;
+    font-size: 30px;
+}
